@@ -1,6 +1,6 @@
 ---
 title: "Introducing Zero-Bundle-Size React Server Components"
-author: [gaearon,laurentan,josephsavona,sebmarkbage]
+author: [gaearon,laurentan,josephsavona,sebmarkbage,gabrielfreitas]
 ---
 
 2020 has been a long year. As it comes to an end we wanted to share a special Holiday Update on our research into zero-bundle-size **React Server Components**.
